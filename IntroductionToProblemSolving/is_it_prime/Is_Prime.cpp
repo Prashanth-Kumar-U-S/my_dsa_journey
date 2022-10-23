@@ -1,5 +1,6 @@
 #include <iostream>
-int main()  {
+int main()
+{
     // YOUR CODE GOES HERE
     // Please take input and print output to standard input/output (stdin/stdout)
     // E.g. 'scanf' for input & 'printf' for output
