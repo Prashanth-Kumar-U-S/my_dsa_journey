@@ -1,12 +1,10 @@
-#include<stdio.h>
-#include<stdlib.h>
-
+#include <iostream>
 int main()  {
     // YOUR CODE GOES HERE
     // Please take input and print output to standard input/output (stdin/stdout)
     // E.g. 'scanf' for input & 'printf' for output
     int A, i, flag;
-    scanf("%d", &A);
+    std::cin >> A;
     
     flag = 1;
     
